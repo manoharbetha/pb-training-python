@@ -35,4 +35,7 @@ while curr:
     print(curr.data,end='->')
     curr=curr.next
 print("None")  
+
+
+kkkkk
   
